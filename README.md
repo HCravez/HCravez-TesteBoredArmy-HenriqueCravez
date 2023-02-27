@@ -2,6 +2,14 @@
 
 Esse projeto foi desenvolvido por mim, para avaliar as minhas habilidades em Unity e POO.
 
+Para jogar o executavel, basta baixar o "(Windows 64).rar", e clicar no arquivo "Teste Bored Army - Henrique Cravez.exe"
+
+As configurações recomendadas são as mais dificieis.
+3 minutos,
+10 inimigos por orda
+e 5 segundos por spawn de orda.
+
+
 Acredito que todos os requisitos das diretrizes do desafio foram cumpridos, mas vale notificar o avalidador que:
 
          -Para evitar ambiguidades, a variavel "Tempo de spawn" foi substituida por: 
@@ -12,11 +20,7 @@ Acredito que todos os requisitos das diretrizes do desafio foram cumpridos, mas 
          
          -Foi adicionada uma zona ao redor dos inimigos que indica a zona que o jogador pode se aproximar sem ser atacado por eles.
          
-Para jogar o executavel, basta baixar o "Teste Bored Army - Henrique Cravez (Windows 64).rar", e clicar no arquivo "Teste Bored Army - Henrique Cravez.exe"
-
-As configurações recomendadas são as mais dificieis.
-3 minutos,
-10 inimigos por orda
-e 5 segundos por spawn de orda.
+         -A resolução recomendada é a de 918x515 de acordo com o arquivo de imagem passado junto com as diretrizes
+         
 
 Agradeço pelo tempo, e paciencia. E espero ouvir da Bored Army em breve!      
