@@ -1,4 +1,4 @@
-# HCravez-TesteBoredArmy-HenriqueCravez
+# Teste Bored Army-Henrique Cravez Coelho
 
 Esse projeto foi desenvolvido por mim, para avaliar as minhas habilidades em Unity e POO.
 
