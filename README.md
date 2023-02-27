@@ -19,4 +19,4 @@ As configurações recomendadas são as mais dificieis.
 10 inimigos por orda
 e 5 segundos por spawn de orda.
 
-Agradeço pelo tempo, e paciencia.       
+Agradeço pelo tempo, e paciencia. E espero ouvir da Bored Army em breve!      
